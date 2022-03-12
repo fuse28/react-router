@@ -1,0 +1,8 @@
+.home {
+  background-color: lightslategray;
+  height: 100%;
+}
+.home-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
